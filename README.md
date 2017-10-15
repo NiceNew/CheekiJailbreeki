@@ -1,3 +1,6 @@
+** This project has been abandoned due to saigon being available now. It will be kept alive for historical and creative value.
+People are free to commit to the project and I will still be looking at pull requests.
+
 # CheekiJailbreeki
 A 10.2.1 jailbreak for 64-bit devices, for all squatters and communists
 
